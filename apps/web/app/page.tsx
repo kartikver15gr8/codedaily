@@ -1,5 +1,5 @@
-import { Button } from "@repo/ui/button";
-import Image from "next/image";
+// import { Button } from "@repo/ui/button";
+// import Image from "next/image";
 import Navbar from "../components/Navbar";
 import Landing from "../components/Landing";
 import Resources from "../components/Resources";
